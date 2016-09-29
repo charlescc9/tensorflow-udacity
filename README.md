@@ -1,2 +1,2 @@
 # tensorflow-udacity
-Assignment Code for Udacity's Deep Leaning course
+Code for Udacity's Deep Leaning course assignments, mainly implementing deep neural networks in TensorFlow.
