@@ -1,2 +1,11 @@
 # tensorflow-udacity
-Code for Udacity's Deep Leaning course assignments, mainly implementing deep neural networks in TensorFlow.
+This project is my personal implementation of the assingments from Udacity's [Deep Learning course] (https://www.udacity.com/course/deep-learning--ud730). The starter code can also be found in [TensorFlow's repository] (https://github.com/charlescc9/tensorflow/tree/master/tensorflow/examples/udacity). 
+
+## Software Dependencies
+This project is written in Python 2.7. To run this project, one needs to install the following:
+* [Python] (https://www.python.org/)
+* [TensorFlow] (https://www.tensorflow.org/)
+* [Numpy] (http://www.numpy.org/)
+
+### License
+This project uses the [MIT License] (https://github.com/charlescc9/tensorflow-udacity/blob/master/LICENSE).
