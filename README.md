@@ -5,7 +5,7 @@ This project is my personal implementation of the assignments from Udacity's [De
 This project is written in Python 2.7. To run this project, one needs to install the following:
 * [Python] (https://www.python.org/)
 * [TensorFlow] (https://www.tensorflow.org/)
-* [Numpy] (http://www.numpy.org/)
+* [NumPy] (http://www.numpy.org/)
 
 ### License
 This project uses the [MIT License] (https://github.com/charlescc9/tensorflow-udacity/blob/master/LICENSE).
